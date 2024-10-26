@@ -26,8 +26,8 @@ Use python, streamlit and gemini API to run this task
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ridwanspace/scrape-anything-app.git
+   cd scrape-anything-app
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
