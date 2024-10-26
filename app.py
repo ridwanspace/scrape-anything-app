@@ -27,7 +27,7 @@ def parse_content(content, description):
     return response.text
 
 st.title('ScrapeAnything App')
-
+st.subheader('AI-powered website scraper and content parser')
 url = st.text_input('Enter url')
 
 if st.button('Start scraping'):
